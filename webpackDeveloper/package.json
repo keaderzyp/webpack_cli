@@ -3,8 +3,8 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "node  ./bin/www dev",//生产环境指令 npm start
-    "build": "node ./bin/www build"//发布环境指令  npm run  build
+    "start": "node  ./bin/www dev",
+    "build": "node ./bin/www build"
   },
   "dependencies": {
     "babel-core": "^6.26.0",
